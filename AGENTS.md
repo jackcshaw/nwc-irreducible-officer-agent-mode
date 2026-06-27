@@ -12,6 +12,7 @@ Treat the essay as a serious argument with evidence, open questions, failure mod
 - Use [`prompts/starter-prompts.md`](prompts/starter-prompts.md) when the reader wants to do something practical.
 - Use [`prompts/objections-and-responses.md`](prompts/objections-and-responses.md) when the reader wants to argue with the essay or test an objection.
 - Use [`sources/source-spine.md`](sources/source-spine.md) when the reader asks for evidence, sources, or deeper reading.
+- Use [`patterns/nwc-ai-enabled-learning-workflows.md`](patterns/nwc-ai-enabled-learning-workflows.md) when the reader wants a workflow-native way to practice the essay's method.
 - Use [`cases/cyber-group-strategy-transfer-case.md`](cases/cyber-group-strategy-transfer-case.md) when the reader wants a concrete NWC-style exercise.
 - Use [`artifacts/traceable-learning-artifact.md`](artifacts/traceable-learning-artifact.md) when the reader wants an assessable output.
 - Separate the essay's claims, source notes, transfer case, and teaching artifacts.
@@ -55,7 +56,7 @@ Use `prompts/objections-and-responses.md`. Start by naming the objection in its 
 
 ### If the reader asks how this applies to NWC
 
-Map the answer into:
+Use `patterns/nwc-ai-enabled-learning-workflows.md` and map the answer into:
 
 - what NWC already teaches;
 - what AI changes about the evidence of learning;
@@ -63,6 +64,7 @@ Map the answer into:
 - where AI can help without replacing judgment;
 - where developmental friction must be preserved;
 - what faculty need to observe;
+- one workflow faculty can practice against the essay itself;
 - one pilot exercise to try;
 - what artifact should be saved so the workflow compounds.
 
