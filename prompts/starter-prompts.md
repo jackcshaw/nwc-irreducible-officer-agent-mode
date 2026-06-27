@@ -2,6 +2,23 @@
 
 Use these prompts with **The Irreducible Officer** and this companion repo. They are designed for a back-and-forth session with an agent.
 
+## Choose A Path
+
+**Best for:** deciding how to use the companion when the reader is unsure.
+
+```text
+Use "The Irreducible Officer" and this companion repo to help me choose the most useful next step.
+
+Read:
+- README.md
+- AGENTS.md
+- claims.md
+
+Return three possible paths from this list: understand the argument, inspect a claim, test an objection, design an exercise, create a flawed AI assessment, run oral defense, or build a trace.
+
+Recommend one path and explain why in plain English.
+```
+
 ## Understand The Argument
 
 **Best for:** getting the clean version of the essay before debating or applying it.
@@ -111,7 +128,7 @@ After the student-facing assessment, provide an instructor-only key:
 
 ## Run Oral Defense
 
-**Best for:** checking whether the learner owns the frame behind an AI-assisted artifact.
+**Best for:** checking whether the learner owns the purpose, frame, reliance decisions, and final judgment behind an AI-assisted artifact.
 
 ```text
 Act as an NWC seminar instructor conducting a short oral defense.
@@ -121,9 +138,10 @@ Read:
 - claims.md
 - artifacts/traceable-learning-artifact.md
 
-Ask one question at a time. Your goal is to determine whether I own the frame behind my AI-assisted work.
+Ask one question at a time. Your goal is to determine whether I own the purpose, frame, reliance decisions, and final judgment behind my AI-assisted work.
 
 Press me on:
+- purpose and success standard;
 - problem frame;
 - assumptions;
 - evidence standards;
@@ -158,7 +176,8 @@ Return a completed artifact with:
 7. reliance decisions;
 8. oral-defense questions;
 9. final human judgment;
-10. faculty review notes.
+10. transfer check;
+11. faculty review notes.
 
 Keep it practical enough to use in one seminar, not as a compliance packet.
 ```

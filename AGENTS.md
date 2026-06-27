@@ -78,4 +78,4 @@ Return:
 
 ## The Core Argument
 
-NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance on uneven systems, and remain accountable for judgment under questioning. Finished artifacts still matter, but they carry less evidentiary weight by themselves. NWC already teaches much of this under strategic logic; AI makes the competency more urgent and more visible.
+NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance on uneven systems, transfer the discipline across cases, and remain accountable for judgment under questioning. Finished artifacts still matter, but they carry less evidentiary weight by themselves. The point is not less AI. It is better human-machine performance: students who can use AI to extend strategic work without becoming downstream of it.

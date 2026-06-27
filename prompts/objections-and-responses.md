@@ -4,7 +4,7 @@ Use this file when the reader wants to test the essay rather than simply apply i
 
 ## Objection 1: NWC already teaches this
 
-**Strongest version:** NWC already teaches framing, assumptions, risk, evidence, and strategic judgment. Calling this "frame literacy" may rename existing practice rather than add anything useful.
+**Strongest version:** NWC already teaches framing, assumptions, risk, evidence, and strategic judgment. Calling this "frame ownership" may rename existing practice rather than add anything useful.
 
 **Best response:** That is partly true, and the essay should say so. The new problem is not the competency itself. The new problem is that AI weakens the old evidence of whether the competency was practiced. NWC may already teach the skill; AI makes it necessary to identify, teach, and measure it more explicitly.
 
@@ -14,7 +14,7 @@ Use this file when the reader wants to test the essay rather than simply apply i
 
 ## Objection 2: Better models will solve the framing problem
 
-**Strongest version:** If future systems can generate better problem definitions, assumptions, and strategies, frame literacy may be a temporary concern.
+**Strongest version:** If future systems can generate better problem definitions, assumptions, and strategies, human frame ownership may be a temporary concern.
 
 **Best response:** Better models move responsibility up one level. They can compare frames or reframe toward a goal, but the purpose, signal, constraint, or definition of progress still comes from a human or institution.
 
@@ -30,7 +30,7 @@ Use this file when the reader wants to test the essay rather than simply apply i
 
 **What could still be right:** A poorly designed trace could become compliance theater and make assignments worse.
 
-**Useful test:** Require only five fields in a pilot: frame, assumptions, evidence standard, accepted/rejected AI outputs, and final human judgment.
+**Useful test:** Require only the lean trace: frame and purpose, key assumptions, evidence standard, accepted/rejected AI outputs with reliance decision, final judgment, and one transfer check.
 
 ## Objection 4: Faculty workload will increase
 
@@ -62,3 +62,12 @@ Use this file when the reader wants to test the essay rather than simply apply i
 
 **Useful test:** Identify which part of the assignment must be done without AI and which part should use AI for critique, red-team, or alternative framing.
 
+## Objection 7: This is too cautious about AI-enabled performance
+
+**Strongest version:** The future standard should be maximum AI-enabled performance. If AI can help students produce better strategic work, NWC should teach them to push the tools hard rather than slow them down with traces and defenses.
+
+**Best response:** The essay agrees that AI-enabled performance matters. The standard is not unaided purity. It is commanded AI use: work that is faster, broader, and sharper because AI is in the loop, while the officer still owns the purpose, reliance decisions, and final judgment.
+
+**What could still be right:** If traces and oral defenses become heavy or performative, they could reduce the very performance the essay wants to improve.
+
+**Useful test:** Give students the same strategic problem unaided, AI-assisted, and AI-directed. Compare not only polish, but frame quality, reliance judgment, adaptability under questioning, and transfer to a changed case.

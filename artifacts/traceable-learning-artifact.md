@@ -59,6 +59,8 @@ For faculty review:
 
 - evidence of frame ownership;
 - evidence of appropriate reliance;
+- evidence of accountability for the final judgment;
+- evidence that the discipline transfers;
 - evidence of developmental friction preserved;
 - remaining concern;
 - follow-up question.
@@ -67,9 +69,9 @@ For faculty review:
 
 If time is limited, require only:
 
-1. frame;
-2. assumptions;
+1. problem frame and purpose;
+2. key assumptions;
 3. evidence standard;
-4. accepted/rejected AI outputs;
-5. final human judgment.
-
+4. accepted/rejected AI outputs and reliance decision;
+5. final human judgment in first person;
+6. transfer check: what would change if the case changed?

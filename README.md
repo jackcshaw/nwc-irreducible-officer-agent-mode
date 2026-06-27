@@ -2,7 +2,7 @@
 
 This repo is the companion source kit for **The Irreducible Officer**, a long-form essay about purpose, accountability, and AI-enabled strategic judgment at the National War College.
 
-Use it with Codex, Claude Code, OpenClaw, or another coding agent to turn the essay into a working session. The essay argues that NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance on uneven systems, preserve developmental friction, and remain accountable for judgment under questioning.
+Use it with Codex, Claude Code, OpenCode, or another coding agent to turn the essay into a working session. The essay argues that NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance on uneven systems, preserve developmental friction, and remain accountable for judgment under questioning.
 
 ## Connect Your Agent
 
@@ -25,7 +25,7 @@ If you can access GitHub or run shell commands, clone or open that repo first. S
 - cases/cyber-group-strategy-transfer-case.md
 - artifacts/traceable-learning-artifact.md
 
-Do not answer from the essay alone. Use the repo to help me do one useful thing with the argument.
+Do not answer from the essay alone. Use the repo to help me do one useful thing with the argument: understand it, inspect a claim, test an objection, design an exercise, create a flawed AI assessment, run oral defense, or build a trace.
 
 Start by giving me:
 1. the cleanest version of the core claim;

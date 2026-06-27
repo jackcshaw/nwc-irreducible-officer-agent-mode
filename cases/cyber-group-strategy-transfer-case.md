@@ -61,5 +61,5 @@ The exercise is working if faculty can see:
 - whether the student can identify and revise assumptions;
 - whether the student can calibrate AI reliance;
 - whether the student can reject a fluent but flawed output;
-- whether the student can defend the final judgment under questioning.
-
+- whether the student can defend the final judgment under questioning;
+- whether the discipline transfers to a changed case or new artifact.
