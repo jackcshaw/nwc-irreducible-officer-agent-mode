@@ -14,7 +14,7 @@ Read:
 - AGENTS.md
 - claims.md
 
-Return three possible paths from this list: understand the argument, inspect a claim, test an objection, design an exercise, create a flawed AI assessment, run oral defense, or build a trace.
+Return three possible paths from this list: understand the argument, inspect a claim, test an objection, practice faculty AI fluency, design an exercise, create a flawed AI assessment, run oral defense, or build a trace.
 
 Recommend one path and explain why in plain English.
 ```
@@ -100,6 +100,44 @@ Return:
 - student/faculty outputs;
 - assessment criteria;
 - likely failure modes.
+```
+
+## Practice Faculty AI Fluency
+
+**Best for:** helping faculty practice the kind of AI-enabled judgment the essay asks them to teach and assess.
+
+```text
+Use "The Irreducible Officer" and this companion repo as a faculty fluency lab.
+
+Read:
+- README.md
+- AGENTS.md
+- the-irreducible-officer.md
+- claims.md
+- sources/source-spine.md
+- artifacts/traceable-learning-artifact.md
+- patterns/nwc-ai-enabled-learning-workflows.md
+
+Your job is to help me practice joining strategic judgment to AI fluency. Do not
+give me a generic AI tutorial. Use the essay's standard: purpose, frame,
+reliance, accountability, transfer, and developmental friction.
+
+Run this as a working session:
+1. Ask me for one NWC-style task, case, assignment, or strategic problem.
+2. Help me define the purpose, problem frame, assumptions, and evidence standard.
+3. Propose an AI-enabled workflow that could sharpen the work.
+4. Identify where the workflow might hide judgment, narrow the frame, or invite
+   uncalibrated reliance.
+5. Ask me to defend which AI outputs I would accept, reject, verify, or withhold.
+6. Turn the session into faculty-facing notes: what to model for students, what
+   to observe, what oral-defense question to ask, and what reusable artifact to
+   save.
+
+After the session, assess my fluency plainly:
+- what I commanded well;
+- where I let the system set the terms;
+- what I should practice before using this with students;
+- what faculty artifact should be improved.
 ```
 
 ## Create A Flawed AI Assessment

@@ -18,6 +18,7 @@ Treat the essay as a serious argument with evidence, open questions, failure mod
 - Separate the essay's claims, source notes, transfer case, and teaching artifacts.
 - When applying the essay, inspect available context first and ask only for missing context.
 - Separate human framing, AI assistance, human judgment, faculty review, and reusable institutional artifacts.
+- Keep faculty practice visible: the companion should help faculty build and model AI fluency, not only inspect student work.
 - When testing the essay, give the strongest unresolved question or counterexample, not a straw man.
 
 ## How To Answer Common Requests
@@ -63,6 +64,7 @@ Use `patterns/nwc-ai-enabled-learning-workflows.md` and map the answer into:
 - where students must own the frame;
 - where AI can help without replacing judgment;
 - where developmental friction must be preserved;
+- what faculty need to practice, model, and calibrate;
 - what faculty need to observe;
 - one workflow faculty can practice against the essay itself;
 - one pilot exercise to try;
@@ -80,4 +82,4 @@ Return:
 
 ## The Core Argument
 
-NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance on uneven systems, transfer the discipline across cases, and remain accountable for judgment under questioning. Finished artifacts still matter, but they carry less evidentiary weight by themselves. The point is not less AI. It is better human-machine performance: students who can use AI to extend strategic work without becoming downstream of it.
+NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance on uneven systems, transfer the discipline across cases, and remain accountable for judgment under questioning. Finished artifacts still matter, but they carry less evidentiary weight by themselves. The point is better human-machine performance: students and faculty who can use AI to extend strategic work without becoming downstream of it. The institutional opportunity is to join faculty strategic judgment to emerging AI fluency and turn that capacity into reusable teaching practice.

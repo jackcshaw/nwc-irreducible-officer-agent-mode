@@ -6,6 +6,8 @@ Use it with Codex, Claude Code, OpenCode, or another coding agent to turn the es
 
 The first practice object is the essay itself. Use the companion to inspect the argument, test objections, run an oral defense, build a trace, and then transfer the method to an approved NWC-style artifact.
 
+That faculty-facing practice is part of the point. The companion lets instructors build, direct, question, and assess AI-enabled work before asking students to do the same.
+
 ## Connect Your Agent
 
 Paste this into your coding agent:
@@ -50,16 +52,18 @@ If you cannot access GitHub directly, tell me the smallest set of repo files you
 | Work through objections | [`prompts/objections-and-responses.md`](prompts/objections-and-responses.md) |
 | Inspect the core claims | [`claims.md`](claims.md) |
 | See the source spine | [`sources/source-spine.md`](sources/source-spine.md) |
+| Practice faculty AI fluency | [`prompts/starter-prompts.md`](prompts/starter-prompts.md) |
 | Practice workflow-native methods | [`patterns/nwc-ai-enabled-learning-workflows.md`](patterns/nwc-ai-enabled-learning-workflows.md) |
 | Build the NWC transfer exercise | [`cases/cyber-group-strategy-transfer-case.md`](cases/cyber-group-strategy-transfer-case.md) |
 | Create the learning trace | [`artifacts/traceable-learning-artifact.md`](artifacts/traceable-learning-artifact.md) |
 
 ## What This Repo Is For
 
-This repo answers four practical questions:
+This repo answers five practical questions:
 
 - **What is the argument?** NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance, and remain accountable for judgment.
 - **What should faculty inspect?** The claim map and source spine separate the essay's argument from the evidence and open questions behind it.
+- **What should faculty practice?** The starter prompts and workflow patterns let faculty work against the essay with an agent, building fluency before they ask students to do the same.
 - **What should faculty and students practice?** The workflow patterns turn the essay into repeatable activities around first framing, AI-mediated challenge, prompt deconstruction, flawed outputs, oral defense, and transfer.
 - **What should the institution save?** The traceable learning artifact records frame choices, reliance decisions, rejected outputs, and faculty review notes so learning can compound.
 

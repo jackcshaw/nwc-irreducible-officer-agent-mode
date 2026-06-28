@@ -42,7 +42,17 @@ Use this file when the reader wants to test the essay rather than simply apply i
 
 **Useful test:** Run one 60-90 minute seminar exercise and ask whether faculty could see more clearly who owned the reasoning.
 
-## Objection 5: This focuses too much on writing
+## Objection 5: Faculty may not yet have the AI fluency this requires
+
+**Strongest version:** The essay assumes NWC faculty can recognize, model, and assess capable AI-enabled work. Some faculty may have the strategic judgment, but not yet enough command of current AI workflows to see where the system helps, fails, narrows the frame, or deserves reliance.
+
+**Best response:** The essay should not pretend this capacity is already universal. The institutional opportunity is to build it inside the faculty: join existing strategic judgment to enough AI fluency that faculty can model the work, question it, and improve it over time. Practitioners working near the edge of current practice can help, but the pedagogy still has to be faculty-owned.
+
+**What could still be right:** If NWC does not invest in faculty practice and calibration, the method could become a set of prompts and rubrics without the judgment needed to use them well.
+
+**Useful test:** Run the companion's faculty fluency lab with one assignment. Ask whether faculty can build an AI-enabled workflow, name its hidden reliance points, and defend where human judgment must interrupt the system.
+
+## Objection 6: This focuses too much on writing
 
 **Strongest version:** NWC education is not only about papers. It includes seminar, wargaming, briefing, leadership, and strategic interaction.
 
@@ -52,7 +62,7 @@ Use this file when the reader wants to test the essay rather than simply apply i
 
 **Useful test:** Apply the trace artifact to a briefing or wargame decision rather than a written paper.
 
-## Objection 6: AI restrictions may be simpler
+## Objection 7: AI restrictions may be simpler
 
 **Strongest version:** Instead of redesigning assessment, faculty could restrict AI use on key assignments.
 
@@ -62,7 +72,7 @@ Use this file when the reader wants to test the essay rather than simply apply i
 
 **Useful test:** Identify which part of the assignment must be done without AI and which part should use AI for critique, red-team, or alternative framing.
 
-## Objection 7: This is too cautious about AI-enabled performance
+## Objection 8: This is too cautious about AI-enabled performance
 
 **Strongest version:** The future standard should be maximum AI-enabled performance. If AI can help students produce better strategic work, NWC should teach them to push the tools hard rather than slow them down with traces and defenses.
 
