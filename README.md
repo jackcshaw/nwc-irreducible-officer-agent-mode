@@ -2,9 +2,9 @@
 
 This repo is the companion source kit for **The Irreducible Officer**, a long-form essay about purpose, accountability, and AI-enabled strategic judgment at the National War College.
 
-Use it with Codex, Claude Code, OpenCode, or another coding agent to turn the essay into a working session. The companion has two jobs: help faculty and readers build fluency with AI-enabled strategic work, and help them translate that fluency into pedagogy. The essay argues that NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance on uneven systems, preserve developmental friction, and remain accountable for judgment under questioning.
+Use it with Codex, Claude Code, or another coding agent to turn the essay into a working session. The essay argues that strategic decisions are increasingly built from AI-shaped inputs, and that NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance on uneven systems, preserve developmental friction, and remain accountable for judgment under questioning.
 
-The first practice object is the essay itself. Use the companion to inspect the argument, test objections, run an oral defense, build a trace, and then transfer the method to an approved NWC-style artifact.
+The companion has two jobs. It helps readers test the essay's claims, and it helps faculty practice the fluency the essay calls for: building, directing, questioning, and assessing AI-enabled work while keeping strategic judgment with the human.
 
 ## Connect Your Agent
 
@@ -51,16 +51,18 @@ If you cannot access GitHub directly, tell me the smallest set of repo files you
 | Inspect the core claims | [`claims.md`](claims.md) |
 | See the source spine | [`sources/source-spine.md`](sources/source-spine.md) |
 | Practice workflow-native methods | [`patterns/nwc-ai-enabled-learning-workflows.md`](patterns/nwc-ai-enabled-learning-workflows.md) |
+| Practice faculty AI fluency | [`prompts/starter-prompts.md`](prompts/starter-prompts.md) |
 | Build the NWC transfer exercise | [`cases/cyber-group-strategy-transfer-case.md`](cases/cyber-group-strategy-transfer-case.md) |
 | Create the learning trace | [`artifacts/traceable-learning-artifact.md`](artifacts/traceable-learning-artifact.md) |
 
 ## What This Repo Is For
 
-This repo answers four practical questions:
+This repo answers five practical questions:
 
-- **What is the argument?** NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance, and remain accountable for judgment.
+- **What is the argument?** NWC must teach and certify AI-enabled strategic judgment in work built from direct AI use and inherited AI-shaped inputs: officers who can direct AI-enabled work toward owned purposes, calibrate reliance, and remain accountable for judgment.
 - **What should faculty inspect?** The claim map and source spine separate the essay's argument from the evidence and open questions behind it.
-- **What should faculty and students practice?** The workflow patterns turn the essay into repeatable activities around first framing, AI-mediated challenge, prompt deconstruction, flawed outputs, oral defense, and transfer.
+- **What should faculty practice?** The workflow patterns and starter prompts let faculty work against the essay with an agent, building fluency before they ask students to do the same.
+- **What should students practice?** The prompts turn the essay into activities around framing, assumptions, reliance, flawed outputs, oral defense, and reusable artifacts.
 - **What should the institution save?** The traceable learning artifact records frame choices, reliance decisions, rejected outputs, and faculty review notes so learning can compound.
 
 ## Public-Safe Boundary

@@ -88,9 +88,10 @@ Design a 60-90 minute exercise for NWC faculty or students that uses the essay's
 The exercise must:
 1. begin by interrogating the essay itself;
 2. then transfer the method to an approved NWC-style artifact;
-3. force the learner to identify the frame, assumptions, evidence standard, and AI reliance decisions;
-4. include a flawed AI output or flawed frame for critique;
-5. end with a traceable learning artifact faculty can inspect.
+3. identify any AI-shaped inputs the learner inherits before using AI directly;
+4. force the learner to identify the frame, assumptions, evidence standard, and AI reliance decisions;
+5. include a flawed AI output or flawed frame for critique;
+6. end with a traceable learning artifact faculty can inspect.
 
 Return:
 - learning objective;
@@ -100,6 +101,45 @@ Return:
 - student/faculty outputs;
 - assessment criteria;
 - likely failure modes.
+```
+
+## Practice Faculty AI Fluency
+
+**Best for:** helping faculty practice the kind of AI-enabled judgment the essay asks them to teach and assess.
+
+```text
+Use "The Irreducible Officer" and this companion repo as a faculty fluency lab.
+
+Read:
+- README.md
+- AGENTS.md
+- the-irreducible-officer.md
+- claims.md
+- sources/source-spine.md
+- artifacts/traceable-learning-artifact.md
+
+Your job is to help me practice joining strategic judgment to AI fluency. Do not
+give me a generic AI tutorial. Use the essay's standard: purpose, frame,
+reliance, accountability, transfer, and developmental friction.
+
+Run this as a working session:
+1. Ask me for one NWC-style task, case, assignment, or strategic problem.
+2. Identify any AI-shaped inputs already present in the task, such as reports,
+   summaries, planning tools, staff processes, or analytic products.
+3. Help me define the purpose, problem frame, assumptions, and evidence standard.
+4. Propose an AI-enabled workflow that could sharpen the work.
+5. Identify where the workflow might hide judgment, narrow the frame, or invite
+   uncalibrated reliance.
+6. Ask me to defend which AI outputs I would accept, reject, verify, or withhold.
+7. Turn the session into faculty-facing notes: what to model for students, what
+   to observe, what oral-defense question to ask, and what reusable artifact to
+   save.
+
+After the session, assess my fluency plainly:
+- what I commanded well;
+- where I let the system set the terms;
+- what I should practice before using this with students;
+- what faculty artifact should be improved.
 ```
 
 ## Create A Flawed AI Assessment
@@ -168,16 +208,17 @@ Read:
 
 Return a completed artifact with:
 1. problem frame;
-2. assumptions;
-3. evidence standard;
-4. AI role and boundaries;
-5. accepted AI contributions;
-6. rejected or revised AI contributions;
-7. reliance decisions;
-8. oral-defense questions;
-9. final human judgment;
-10. transfer check;
-11. faculty review notes.
+2. inherited AI-shaped inputs, if any;
+3. assumptions;
+4. evidence standard;
+5. AI role and boundaries;
+6. accepted AI contributions;
+7. rejected or revised AI contributions;
+8. reliance decisions;
+9. oral-defense questions;
+10. final human judgment;
+11. transfer check;
+12. faculty review notes.
 
 Keep it practical enough to use in one seminar, not as a compliance packet.
 ```

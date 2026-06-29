@@ -8,11 +8,15 @@ Use this artifact when the goal is to make AI-assisted reasoning inspectable wit
 
 What problem are you solving? Distinguish the general condition from the strategic problem that requires judgment.
 
-### 2. Purpose And Success Standard
+### 2. Inherited AI-Shaped Inputs
+
+What reports, summaries, planning tools, staff processes, or prior analytic products shaped the work before you used AI directly? Which of those may already contain AI-generated or AI-filtered judgment?
+
+### 3. Purpose And Success Standard
 
 What should count as progress? What standard did you use to judge a good answer?
 
-### 3. Assumptions
+### 4. Assumptions
 
 List:
 
@@ -21,39 +25,39 @@ List:
 - assumptions suggested by AI;
 - assumptions you rejected or revised.
 
-### 4. Evidence Standard
+### 5. Evidence Standard
 
 What evidence would strengthen, weaken, or change your conclusion? Which claims remain uncertain?
 
-### 5. AI Role And Boundaries
+### 6. AI Role And Boundaries
 
 What did AI do in the work? What was it not allowed to do?
 
-### 6. Accepted AI Contributions
+### 7. Accepted AI Contributions
 
 What AI outputs did you accept or adapt, and why?
 
-### 7. Rejected Or Revised AI Contributions
+### 8. Rejected Or Revised AI Contributions
 
 What did you reject, correct, or reframe, and why?
 
-### 8. Reliance Decision
+### 9. Reliance Decision
 
 Where was reliance appropriate? Where did human judgment need to interrupt?
 
-### 9. Alternative Frames
+### 10. Alternative Frames
 
 What other frames did you consider? Why did you choose this one?
 
-### 10. Oral-Defense Questions
+### 11. Oral-Defense Questions
 
 What questions would expose whether you own the reasoning?
 
-### 11. Final Human Judgment
+### 12. Final Human Judgment
 
 State the final judgment in first person. Own the decision, including what remains uncertain.
 
-### 12. Faculty Notes
+### 13. Faculty Notes
 
 For faculty review:
 
@@ -70,8 +74,9 @@ For faculty review:
 If time is limited, require only:
 
 1. problem frame and purpose;
-2. key assumptions;
-3. evidence standard;
-4. accepted/rejected AI outputs and reliance decision;
-5. final human judgment in first person;
-6. transfer check: what would change if the case changed?
+2. inherited AI-shaped inputs, if any;
+3. key assumptions;
+4. evidence standard;
+5. accepted/rejected AI outputs and reliance decision;
+6. final human judgment in first person;
+7. transfer check: what would change if the case changed?

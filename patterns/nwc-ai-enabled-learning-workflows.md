@@ -4,11 +4,12 @@ Use these workflows when a reader wants to practice the method behind **The Irre
 
 The common loop is:
 
-1. The human states the purpose and first frame.
-2. AI challenges, expands, or critiques the work.
-3. The human accepts, rejects, or revises the AI contribution.
-4. The human defends the judgment under questioning.
-5. The learning is saved as a trace, prompt, rubric, flawed output, or exercise note.
+1. The human identifies inherited AI-shaped inputs already in the work.
+2. The human states the purpose and first frame.
+3. AI challenges, expands, or critiques the work.
+4. The human accepts, rejects, or revises the AI contribution.
+5. The human defends the judgment under questioning.
+6. The learning is saved as a trace, prompt, rubric, flawed output, or exercise note.
 
 ## 1. Essay As Practice Object
 
@@ -28,7 +29,7 @@ The common loop is:
 
 **Use when:** students or faculty need to preserve developmental friction while still practicing AI-enabled work.
 
-**Human job:** write an unaided first frame of the strategic problem, including purpose, assumptions, evidence standard, and what would count as success.
+**Human job:** write an unaided first frame of the strategic problem, including inherited AI-shaped inputs, purpose, assumptions, evidence standard, and what would count as success.
 
 **Agent job:** challenge the frame, generate alternative frames, identify missing assumptions, and name where AI reliance would be risky.
 
@@ -90,7 +91,7 @@ The common loop is:
 
 **Human job:** choose an approved artifact, case, assignment, or strategic product.
 
-**Agent job:** map where the essay's method applies: purpose, frame, assumptions, evidence standard, reliance, accountability, and transfer.
+**Agent job:** map where the essay's method applies: inherited AI-shaped inputs, purpose, frame, assumptions, evidence standard, reliance, accountability, and transfer.
 
 **Output:** exercise plan and trace artifact.
 

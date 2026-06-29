@@ -35,7 +35,7 @@ A cyber strategy product creates useful instructional friction because it usuall
 ## Instructor Prompts
 
 ```text
-Using the approved course artifact, identify where AI could make the final product look stronger while weakening assurance of learning.
+Using the approved course artifact, identify where AI could produce genuinely strong work while obscuring who owns the frame, assumptions, reliance decisions, and final judgment.
 
 Return:
 1. the frame students must own;
