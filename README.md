@@ -1,45 +1,41 @@
-# The Irreducible Officer: Agent Mode
+# The Irreducible Officer: AI Companion Source
+
+To read or run the companion, start at https://nwc-learning-companion.web.app.
+This repo is the source material behind it.
 
 This repo is the companion source kit for **The Irreducible Officer**, a long-form essay about purpose, accountability, and AI-enabled strategic judgment at the National War College.
 
-Use it with Codex, Claude Code, OpenCode, or another coding agent to turn the essay into a working session. The companion has two jobs: help faculty and readers build fluency with AI-enabled strategic work, and help them translate that fluency into pedagogy. The essay argues that NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance on uneven systems, preserve developmental friction, and remain accountable for judgment under questioning.
+Use it with ChatGPT, Claude, Gemini, or another AI assistant to turn the essay into a working session. The companion has two jobs: help faculty and readers build fluency with AI-enabled strategic work, and help them translate that fluency into pedagogy. The essay argues that NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance on uneven systems, preserve developmental friction, and remain accountable for judgment under questioning.
 
 The first practice object is the essay itself. Use the companion to inspect the argument, test objections, run an oral defense, build a trace, and then transfer the method to an approved NWC-style artifact.
 
 That faculty-facing practice is part of the point. The companion lets instructors build, direct, question, and assess AI-enabled work before asking students to do the same.
 
-## Connect Your Agent
+## Start A Session
 
-Paste this into your coding agent:
+The public site provides the easiest path: copy the setup prompt from the AI
+Companion tab. It points your assistant at a single context file that contains
+the essay and companion materials.
+
+If you are starting from this repo instead, paste this into your AI assistant:
 
 ```text
-You are helping me read and use the essay "The Irreducible Officer."
+You are helping me read and use the essay "The Irreducible Officer," a piece about purpose, accountability, and AI-enabled strategic judgment at the National War College.
 
-Use this companion GitHub repo as your source of truth:
-https://github.com/jackcshaw/nwc-irreducible-officer-agent-mode
+Before you answer anything, fetch and read this file in full. It contains the essay and companion materials: claim map, source spine, objections, workflow patterns, transfer case, traceable-artifact template, and starter prompts.
 
-If you can access GitHub or run shell commands, clone or open that repo first. Start with only these files:
-- README.md
-- AGENTS.md
-- the-irreducible-officer.md
-- claims.md
-- prompts/starter-prompts.md
-- prompts/objections-and-responses.md
-- sources/source-spine.md
-- patterns/nwc-ai-enabled-learning-workflows.md
-- cases/cyber-group-strategy-transfer-case.md
-- artifacts/traceable-learning-artifact.md
+https://nwc-learning-companion.web.app/assets/companion-context.md
 
-Do not answer from the essay alone. Use the repo to help me do one useful thing with the argument: understand it, inspect a claim, test an objection, practice a workflow, design an exercise, create a flawed AI assessment, run oral defense, or build a trace.
+If you cannot reach that URL, tell me you could not read it and ask me to paste or attach the context file. Do not answer from the essay alone or from memory.
 
 Start by giving me:
 1. the cleanest version of the core claim;
 2. the part of the argument most relevant to an NWC instructor or curriculum leader;
-3. the most useful starter prompt from the repo for my next step.
+3. the most useful next path for what I want to do.
 
-If I ask to inspect evidence, read `claims.md` and `sources/source-spine.md`. If I ask to design an exercise, read `cases/cyber-group-strategy-transfer-case.md` and `artifacts/traceable-learning-artifact.md`. If I ask to argue with the essay, read `prompts/objections-and-responses.md`.
+Then follow my lead. If I ask to inspect evidence, use the CLAIMS and SOURCE SPINE sections. If I ask to design an exercise, use the TRANSFER CASE and TRACEABLE ARTIFACT sections. If I ask to argue with the essay, start from the strongest version of the objection in the OBJECTIONS section. If I ask to practice faculty fluency, use the WORKFLOW PATTERNS section.
 
-If you cannot access GitHub directly, tell me the smallest set of repo files you need me to paste before you continue.
+Do not turn this into a generic AI-in-education summary. Keep the focus on AI-enabled strategic judgment: purpose, frame, reliance, accountability, and transfer.
 ```
 
 ## Start Here
