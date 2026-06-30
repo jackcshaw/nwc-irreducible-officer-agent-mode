@@ -6,12 +6,17 @@ Use this file when the reader asks for sources, evidence, or deeper research. Ke
 
 - [A National Security Strategy Primer](https://nwc.ndu.edu/Portals/71/Documents/Publications/NWC-Primer-FINAL_for%20Web.pdf) anchors the argument in NWC's native language of strategic logic: interests, assumptions, ends, ways, means, costs, risk, and reassessment.
 
+## PME, Command, And Accountability
+
+- Richard B. Andres, *AI and leadership: Preparing commanders for machine-speed war* [Unpublished manuscript], provides the "conviction-shaped output" language and the command-accountability frame the essay extends into assessment. This is a review-copy source, not a public source.
+
 ## AI, Learning, And Instructional Design
 
 - Bastani et al., [Generative AI without guardrails can harm learning](https://doi.org/10.1073/pnas.2422633122), provides the empirical caution used in the essay: unscaffolded AI support improved practice performance but reduced later unsupported performance.
 - Chow et al., ["AI enhanced my critical thinking": Investigating the paradox of student perceptions and cognitive offloading in GenAI use](https://ojs.aut.ac.nz/pjtel/article/view/246), provides the "epistemic confinement" language used to describe fluency without independent frame ownership.
 - Mollick and Mollick, [Assigning AI](https://arxiv.org/abs/2306.10052), helps frame AI roles in education, including tutor, coach, simulator, teammate, and student.
 - Perkins, Roe, and Furze, [The AI Assessment Scale Revisited](https://arxiv.org/abs/2412.09029), is useful as a starting point for explicit AI assessment design. For NWC, it needs to be sharpened toward frame ownership, reliance decisions, and final judgment.
+- Vendrell and Johnston, [Scaffolding critical thinking with generative AI](https://doi.org/10.1016/j.caeai.2026.100572), supports the essay's design logic: preserve productive struggle, sequence AI-free and AI-mediated phases deliberately, and align assessment with reasoning rather than surface fluency.
 
 ## Appropriate Reliance And Human Agency
 
@@ -45,6 +50,10 @@ Use this file when the reader asks for sources, evidence, or deeper research. Ke
 
 - Theobold, [Oral exams: A more meaningful assessment of students' understanding](https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1914527), supports oral defense as a way to probe student understanding under follow-up.
 
+## PME Governance And Faculty Readiness
+
+- Smith, [Educating the AI-ready warfighter](https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/4219340/educating-the-ai-ready-warfighter-a-framework-for-ethical-integration-in-air-fo/), is useful for the governance layer: acceptable-use policy, classification tiers, faculty literacy training, and responsible integration. The essay uses it as necessary groundwork, then argues NWC still has to answer the harder teaching and assessment question.
+
 ## Format Reference
 
-- Dan Shipper, [After Automation](https://every.to/p/after-automation), remains a useful format reference for essay-plus-agent-mode presentation, not a source for the essay's claims.
+- Dan Shipper, [After Automation](https://every.to/p/after-automation), remains a useful format reference for essay-plus-companion presentation, not a source for the essay's claims.
