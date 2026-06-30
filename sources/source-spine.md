@@ -53,7 +53,3 @@ Use this file when the reader asks for sources, evidence, or deeper research. Ke
 ## PME Governance And Faculty Readiness
 
 - Smith, [Educating the AI-ready warfighter](https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/4219340/educating-the-ai-ready-warfighter-a-framework-for-ethical-integration-in-air-fo/), is useful for the governance layer: acceptable-use policy, classification tiers, faculty literacy training, and responsible integration. The essay uses it as necessary groundwork, then argues NWC still has to answer the harder teaching and assessment question.
-
-## Format Reference
-
-- Dan Shipper, [After Automation](https://every.to/p/after-automation), remains a useful format reference for essay-plus-companion presentation, not a source for the essay's claims.
