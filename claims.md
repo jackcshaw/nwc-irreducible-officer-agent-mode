@@ -1,12 +1,12 @@
 # Claims Map
 
-Use this file when the reader asks what the essay claims, wants to inspect the evidence, or wants to test whether a proposed edit preserves the argument. This map was synced to **The Irreducible Officer** on June 28, 2026. If the essay and this file diverge, treat that as a sync problem: revise the essay or this map deliberately, then back-map the change.
+Use this file when the reader asks what the essay claims, wants to inspect the evidence, or wants to test whether a proposed edit preserves the argument. This map was synced to **The Irreducible Officer** on June 30, 2026. If the essay and this file diverge, treat that as a sync problem: revise the essay or this map deliberately, then back-map the change.
 
 Keep the claim list short enough that the reader can choose where to go deeper.
 
 ## Thesis
 
-NWC has to teach and certify AI-enabled strategic judgment: graduates who can use AI to sharpen strategic work, direct AI-enabled systems toward owned purposes, calibrate reliance on uneven systems, and remain accountable for the judgment under questioning. AI does not remove the officer from the work. It raises the standard for visible ownership of purpose, frame, reliance, accountability, and transfer, especially when strategic work is built from AI-shaped inputs.
+NWC has to teach and certify AI-enabled strategic judgment: graduates who can use machine speed to sharpen strategic work, direct AI-enabled systems toward owned purposes, calibrate reliance on uneven systems, and remain accountable for the judgment under questioning. AI keeps the officer in the work and raises the standard for visible ownership of purpose, frame, reliance, accountability, and transfer, especially when strategic work is built from AI-shaped inputs.
 
 ## Claim Dependency Spine
 
@@ -15,7 +15,7 @@ NWC has to teach and certify AI-enabled strategic judgment: graduates who can us
 3. The certifiable competency is owned purpose and accountability made visible through frame, calibrated reliance, accountable judgment, and transfer.
 4. Purpose is the irreducible human obligation; frame is how that purpose becomes visible in the workflow.
 5. Appropriate reliance governs the human-AI relationship inside the workflow.
-6. Developmental friction builds the human foundation needed for AI-enabled judgment, not merely unaided performance.
+6. Developmental friction builds the human foundation needed for AI-enabled judgment, including but extending beyond unaided performance.
 7. Assessment must make purpose through frame, reliance, accountability, and transfer visible.
 8. NWC can join faculty strategic judgment to emerging AI fluency and convert those practices into shared institutional assets for an AI-enabled PME future.
 
@@ -23,7 +23,7 @@ Purpose and accountability are the irreducible human obligations. Frame, relianc
 
 ## Claim 1: AI changes the performance standard
 
-AI is not mainly an assessment-integrity problem or a permission-policy problem. It is part of the operating environment NWC graduates will work in, both through tools they use directly and through AI-shaped inputs they inherit. The question becomes whether NWC can teach and certify capable AI-enabled strategic judgment.
+Policy and assessment-integrity questions matter. They sit upstream of the harder educational question of whether NWC can prepare and certify officers who use machine speed while keeping purpose, reliance, and accountability attached to human judgment.
 
 - **Best evidence:** the opening section's AI-shaped-inputs claim, the two-officer example, the seminar-team future-state paragraph, and the conclusion's return to AI-enabled command of multiple agents.
 - **Strongest unresolved question:** what level of AI-enabled performance should NWC expect from all graduates, and what should remain specialized or advanced?
@@ -53,7 +53,7 @@ AI may generate or compare frames, but it still operates toward a purpose, signa
 
 The educational target is not general trust or general distrust. Students need to know when to rely, when to verify, when to redirect, when to refuse, and how to explain the difference under questioning.
 
-This makes AI use an object of strategic judgment, not a mere tool-use disclosure.
+This turns AI use from a tool-use disclosure into an object of strategic judgment.
 
 - **Best evidence:** Dell'Acqua et al. on the jagged frontier, Raees and Papangelis on appropriate reliance, and the essay's visibility diagnostic for where human judgment enters a workflow.
 - **Strongest unresolved question:** what reliance evidence is enough without turning assignments into paperwork or compliance theater?
@@ -63,7 +63,7 @@ This makes AI use an object of strategic judgment, not a mere tool-use disclosur
 
 Some friction is waste; some friction is how judgment forms. NWC should remove work that consumes time without building judgment and preserve the struggle that builds strategic reasoning.
 
-AI makes this design choice urgent because it can remove both kinds of friction without knowing the difference. The point is to build the human foundation needed to make human-machine work better than either human or machine performance alone.
+AI makes this design choice urgent because it can remove both kinds of friction without knowing the difference. The point is to build the human foundation needed to make human-machine work better than either human or machine performance alone. Students need deliberate exposure to AI failure, including systems that are useful, seductive, partially wrong, or unavailable, so they can practice when to lean on the tool, slow down, or intervene.
 
 - **Best evidence:** Ceccarelli on apprenticeship, Collins/Brown/Newman on cognitive apprenticeship, aviation automation evidence from Young/Fanjoy/Suckow and Sarter/Woods, and the essay's "no garden paths" assignment principle.
 - **Strongest unresolved question:** how can faculty preserve developmental struggle while still letting students build real AI-enabled capability?
@@ -105,7 +105,7 @@ Those artifacts should themselves be traceable and faculty-governed because expo
 
 | Essay section | Primary claim(s) | Function in the argument |
 | --- | --- | --- |
-| I. The Performance Standard Has Changed | Claims 1, 2, 3, 6 | Establishes the operating premise: strategic work is increasingly built from AI-shaped inputs, and NWC must teach and certify AI-enabled strategic judgment, not merely police AI use or inspect finished products. |
+| I. The Performance Standard Has Changed | Claims 1, 2, 3, 6 | Establishes the operating premise: strategic work is increasingly built from AI-shaped inputs, giving NWC a preparation-and-certification task beyond AI-use policy and finished-product review. |
 | II. What the Problem Looks Like | Claims 1, 4, 7 | Uses the two-officer example and failure modes to define the standard a good AI-enabled workflow has to meet. |
 | III. What Finished Work Can No Longer Carry | Claim 2 | Explains why finished products carry less evidentiary weight and need additional evidence of ownership. |
 | IV. Purpose as the Irreducible Human Act | Claim 3 | Locates the human obligation before the system runs: purpose, made visible through frame, assumptions, and success criteria. |
@@ -113,7 +113,7 @@ Those artifacts should themselves be traceable and faculty-governed because expo
 | VI. Friction as Developmental Design | Claim 5 | Distinguishes wasteful friction from the struggle that builds strategic judgment. |
 | VII. Accountability Is Structural | Claim 6 | Shows why the human remains answerable for AI-enabled work, especially in national security contexts. |
 | VIII. Assessment That Makes Ownership Visible | Claim 7 | Converts the argument into assessable evidence: purpose through frame, reliance, accountability, and transfer. |
-| IX. A Foundation Pilot | Claims 1, 5, 7, 8 | Proposes a small implementation that protects foundation-building, produces reusable evidence, and signals later team-based multi-agent workflows. |
+| IX. A Foundation Pilot | Claims 1, 5, 7, 8 | Proposes a small implementation that lets NWC practice AI-enabled ownership before operational speed makes the cost real, while producing reusable evidence and signaling later team-based multi-agent workflows. |
 | X. The Institutional Opportunity | Claim 8 | Extends the pilot into institutional compounding and faculty-governed teaching infrastructure. |
 | XI. Conclusion | Claims 1, 3, 4, 6, 7 | Returns to the two officers and restates the professional question: can either officer account for the purpose and stand behind the judgment? |
 
@@ -121,7 +121,7 @@ Those artifacts should themselves be traceable and faculty-governed because expo
 
 Use these questions when reviewing future edits:
 
-1. Does the edit strengthen the claim that NWC is teaching and certifying AI-enabled strategic judgment, not merely detecting AI misuse?
+1. Does the edit strengthen the claim that NWC is teaching and certifying AI-enabled strategic judgment, with misuse detection as only one smaller concern?
 2. Does it keep AI-assisted performance real while still requiring visible ownership of purpose, reliance, and accountability?
 3. Does it separate purpose, frame, reliance, and accountability clearly?
 4. Does it preserve developmental friction for the work that builds judgment?
