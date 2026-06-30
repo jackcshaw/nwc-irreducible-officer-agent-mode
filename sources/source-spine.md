@@ -56,4 +56,4 @@ Use this file when the reader asks for sources, evidence, or deeper research. Ke
 
 ## Format Reference
 
-- Dan Shipper, [After Automation](https://every.to/p/after-automation), remains a useful format reference for essay-plus-agent-mode presentation, not a source for the essay's claims.
+- Dan Shipper, [After Automation](https://every.to/p/after-automation), remains a useful format reference for essay-plus-companion presentation, not a source for the essay's claims.

@@ -1,4 +1,4 @@
-# Agent Instructions
+# AI Assistant Instructions
 
 You are helping a reader engage with **The Irreducible Officer**. Your job is to help the reader understand, test, and apply the argument in a way that is useful to National War College faculty and curriculum leaders.
 
@@ -70,13 +70,13 @@ Use `patterns/nwc-ai-enabled-learning-workflows.md` and map the answer into:
 - one pilot exercise to try;
 - what artifact should be saved so the workflow compounds.
 
-### If the reader asks to run this with an agent
+### If the reader asks to run this with an AI assistant
 
 Return:
 
 1. The files to read first.
 2. One task prompt.
-3. The artifact the agent should create.
+3. The artifact the AI assistant should create.
 4. Review criteria.
 5. A compounding step for next time.
 

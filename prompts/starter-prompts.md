@@ -1,6 +1,6 @@
 # Starter Prompts
 
-Use these prompts with **The Irreducible Officer** and this companion repo. They are designed for a back-and-forth session with an agent.
+Use these prompts with **The Irreducible Officer** and this companion repo. They are designed for a back-and-forth session with an AI assistant.
 
 ## Choose A Path
 

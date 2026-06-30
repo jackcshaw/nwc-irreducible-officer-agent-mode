@@ -17,11 +17,11 @@ The common loop is:
 
 **Human job:** identify the essay's purpose, frame, strongest claim, weakest claim, and likely objection.
 
-**Agent job:** map the essay's claims, surface the strongest objection, and point to the best evidence and weakest support.
+**AI assistant job:** map the essay's claims, surface the strongest objection, and point to the best evidence and weakest support.
 
 **Output:** one-page claim audit.
 
-**Review question:** did the human revise the agent's frame, or simply accept it?
+**Review question:** did the human revise the AI assistant's frame, or simply accept it?
 
 **Reusable artifact:** a claim audit that can become a seminar prompt or faculty discussion note.
 
@@ -31,7 +31,7 @@ The common loop is:
 
 **Human job:** write an unaided first frame of the strategic problem, including inherited AI-shaped inputs, purpose, assumptions, evidence standard, and what would count as success.
 
-**Agent job:** challenge the frame, generate alternative frames, identify missing assumptions, and name where AI reliance would be risky.
+**AI assistant job:** challenge the frame, generate alternative frames, identify missing assumptions, and name where AI reliance would be risky.
 
 **Human job after AI:** decide what to accept, reject, or revise, then state the final judgment in first person.
 
@@ -47,7 +47,7 @@ The common loop is:
 
 **Human job:** draft a prompt for an AI-generated assessment, recommendation, critique, or briefing.
 
-**Agent job:** identify the purpose, assumptions, evidence standard, theory of success, and blind spots embedded in the prompt.
+**AI assistant job:** identify the purpose, assumptions, evidence standard, theory of success, and blind spots embedded in the prompt.
 
 **Human job after AI:** revise the prompt and explain what changed.
 
@@ -61,7 +61,7 @@ The common loop is:
 
 **Use when:** faculty need a polished object that lets students practice seeing beneath fluency.
 
-**Agent job:** create a polished but flawed strategic assessment. The flaw should sit at the level of frame, assumptions, evidence standard, reliance, risk, or theory of success.
+**AI assistant job:** create a polished but flawed strategic assessment. The flaw should sit at the level of frame, assumptions, evidence standard, reliance, risk, or theory of success.
 
 **Human job:** diagnose the flaw, revise the output, and build oral-defense questions that would expose the weakness.
 
@@ -77,7 +77,7 @@ The common loop is:
 
 **Human job:** bring an AI-assisted argument, recommendation, or critique.
 
-**Agent job:** ask one question at a time about purpose, frame, assumptions, evidence, reliance decisions, rejected outputs, accountability, and transfer.
+**AI assistant job:** ask one question at a time about purpose, frame, assumptions, evidence, reliance decisions, rejected outputs, accountability, and transfer.
 
 **Output:** oral-defense notes and missing evidence for the trace.
 
@@ -91,7 +91,7 @@ The common loop is:
 
 **Human job:** choose an approved artifact, case, assignment, or strategic product.
 
-**Agent job:** map where the essay's method applies: inherited AI-shaped inputs, purpose, frame, assumptions, evidence standard, reliance, accountability, and transfer.
+**AI assistant job:** map where the essay's method applies: inherited AI-shaped inputs, purpose, frame, assumptions, evidence standard, reliance, accountability, and transfer.
 
 **Output:** exercise plan and trace artifact.
 
@@ -105,7 +105,7 @@ The common loop is:
 
 **Human job:** have several faculty independently diagnose the same AI-generated output or student trace.
 
-**Agent job:** compare the diagnoses, identify agreement and disagreement, and draft revised review criteria.
+**AI assistant job:** compare the diagnoses, identify agreement and disagreement, and draft revised review criteria.
 
 **Output:** calibration note and revised rubric.
 
@@ -131,7 +131,7 @@ Then recommend one workflow:
 
 For the workflow you recommend, return:
 1. the human job;
-2. the agent job;
+2. the AI assistant job;
 3. the expected output;
 4. the faculty review question;
 5. the reusable artifact to save.
