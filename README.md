@@ -4,7 +4,7 @@ This repo is the source kit behind the public companion for **The Irreducible Of
 
 Most readers should start with the public package:
 
-https://nwc-learning-companion.web.app
+https://judgmentlab.net
 
 Use the companion with ChatGPT, Claude, Gemini, or another AI assistant to turn the essay into a working session. The essay argues that strategic decisions are increasingly built from AI-shaped inputs, and that NWC must teach and certify AI-enabled strategic judgment: officers who can direct AI-enabled work toward owned purposes, calibrate reliance on uneven systems, preserve developmental friction, and remain accountable for judgment under questioning.
 
@@ -18,7 +18,7 @@ Paste this into your AI assistant:
 You are helping me read and use the essay "The Irreducible Officer."
 
 Start by reading this public context file:
-https://nwc-learning-companion.web.app/assets/companion-context.md
+https://judgmentlab.net/assets/companion-context.md
 
 If you cannot read the URL, ask me to paste or attach the context file before you answer.
 
